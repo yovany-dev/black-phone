@@ -15,7 +15,7 @@ pkg update > /dev/null 2>&1
 pkg upgrade -y > /dev/null 2>&1
 pkg install -y git > /dev/null 2>&1
 
-git clone https://github.com/Yovany-Black-Hat/Black-Phone.git
+git clone https://github.com/Yovany-Black-Hat/Black-Phone.git > /dev/null 2>&1
 mv Black-Phone/* .
 rm -rf Black-Phone
 chmod 777 install.sh
