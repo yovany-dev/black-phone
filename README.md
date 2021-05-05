@@ -1,4 +1,4 @@
-# Numbers scanning
+# Black Phone
     Es un Script para Termux que obtine
     información basica de números telefónicos
 
@@ -7,10 +7,9 @@
 
 # Instalación
     pkg update && pkg upgrade -y
-    pkg install -y python
     pkg install -y git
-    git clone https://tengoqueponerelrepo.git
-    cd Carpeta git
+    git clone https://github.com/Yovany-Black-Hat/Black-Phone.git
+    cd Black-Phone
     chmod +x install.sh
     python3 main.py
 
