@@ -11,6 +11,7 @@
     git clone https://github.com/Yovany-Black-Hat/Black-Phone.git
     cd Black-Phone
     chmod +x install.sh
+    ./install.sh
     python3 main.py
 
 ### Uso:
