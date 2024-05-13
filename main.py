@@ -60,12 +60,12 @@ def credits():
     print ('         |__) |     /\  /  ` |__/    |__) |__| /  \ |\ | |__')
     print ('         |__) |___ /~~\ \__, |  \    |    |  | \__/ | \| |___ {}v1.0{}'.format(redColour, greenColour))
     print ('    [{}+{}]{}============================================================{}[{}+{}]'.format(redColour, greenColour, redColour, greenColour, redColour, greenColour))
-    print ('            Creado por    {}:{} Yovany Black Hat'.format(redColour, greenColour))
+    print ('            Creado por    {}:{} Yovany Morales'.format(redColour, greenColour))
     print ('            Descripcion   {}:{} Obtiene informacion basica de numeros'.format(redColour, greenColour))
     print ('            Recomendacion {}:{} Solo use numeros con el codigo de pais'.format(redColour, greenColour))
     print ('            Nota          {}:{} Puede utiliza ctrl_c + Enter para salir'.format(redColour, greenColour))
-    print ('            WhatsApp      {}:{} +50248432082'.format(redColour, greenColour))
-    print ('            Github        {}:{} https://github.com/Yovany-Black-Hat'.format(redColour, greenColour))
+    print ('            Contactó      {}:{} yovanymorales.contact@gmail.com'.format(redColour, greenColour))
+    print ('            Github        {}:{} https://github.com/yovany-dev'.format(redColour, greenColour))
     print ('    [{}+{}]{}============================================================{}[{}+{}]{}'.format(redColour, greenColour, redColour, greenColour, redColour, greenColour, endColour))
 
 
