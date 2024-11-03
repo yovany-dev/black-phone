@@ -61,11 +61,11 @@ def credits():
     print ('         |__) |___ /~~\ \__, |  \    |    |  | \__/ | \| |___ {}v1.0{}'.format(redColour, greenColour))
     print ('    [{}+{}]{}============================================================{}[{}+{}]'.format(redColour, greenColour, redColour, greenColour, redColour, greenColour))
     print ('            Creado por    {}:{} Yovany Morales'.format(redColour, greenColour))
-    print ('            Descripcion   {}:{} Obtiene informacion basica de numeros'.format(redColour, greenColour))
-    print ('            Recomendacion {}:{} Solo use numeros con el codigo de pais'.format(redColour, greenColour))
-    print ('            Nota          {}:{} Puede utiliza ctrl_c + Enter para salir'.format(redColour, greenColour))
+    print ('            Página web    {}:{} https://yovanymorales.dev'.format(redColour, greenColour))
     print ('            Contactó      {}:{} yovanymorales.contact@gmail.com'.format(redColour, greenColour))
-    print ('            Github        {}:{} https://github.com/yovany-dev'.format(redColour, greenColour))
+    print ('            Descripción   {}:{} Obtiene información básica de números'.format(redColour, greenColour))
+    print ('            Recomendación {}:{} Solo use números con el código de país'.format(redColour, greenColour))
+    print ('            Nota          {}:{} Puede utiliza ctrl_c + Enter para salir'.format(redColour, greenColour))
     print ('    [{}+{}]{}============================================================{}[{}+{}]{}'.format(redColour, greenColour, redColour, greenColour, redColour, greenColour, endColour))
 
 
