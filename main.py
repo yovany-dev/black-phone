@@ -74,9 +74,9 @@ def banner():
     l = logo(redColour)
 
     for x in l + '\n':
-    	sys.stdout.write(x)
-    	sys.stdout.flush()
-    	time.sleep(0.001)
+        sys.stdout.write(x)
+        sys.stdout.flush()
+        time.sleep(0.001)
 
     for i in range(10):
         os.system('clear')
